@@ -32,7 +32,11 @@
 - ###### Speech to Text
 
 ## Approaches to NLP :
-- ###### Heuristic Methods
-+ ###### Machine Learning based Methods
-* ###### Deep Learning based Methods
+- ##### Heuristic Methods: 
+###### A heuristic technique is any approach to problem solving or self discovery that employs a practical method that is not guaranted to be optimal, perfect, or rational, but it neverthless sufficient for reaching an immediate, short-term goal or approximation. 
+Examples : Regular Expressions, Wordnet, Open Mind Common Sense                                                                                                                           
+Advantage : These are quick approaches and accurate (chances of errors are less).                                                               
+Current Scenario :  Yes, Heuristic Approaches are used in current time.
++ ##### Machine Learning based Methods
+* ##### Deep Learning based Methods
 
