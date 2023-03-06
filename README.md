@@ -5,7 +5,7 @@
 ###### In neuropsychology, linguistics (human languages) and the philosophy of language, a natural language or ordinary language is any language that has evolved naturally in humans through use and repitition without humans consious planning or premeditaion. Natural languages can take different forms, such as speech or signing. They are distinguished from constructed and formal languages such as those used to program computers or to study logic.
 
 ## Real World Application of NLP :
-- #### Contextual Advertisements : 
+- #### Contextual Advertisements :                                     
 ###### For example : Like I use instagram and I likes to search about technology and companies so, they show me the advertisement based on my interests by knowing it through my activities on instagram which is called as targeted advertisements.                                                            
 + #### Email Clients :                                  
 ###### Email filters are one of the most basic and initial applications of NLP online. It started out with spam filters, uncovering certain words or phrases that signal a spam message. But filtering has upgraded, just like early adaptations of NLP. One of the more prevalent, newer applications of NLP is found in Gmail's email classification. The system recognizes if emails belong in one of three categories (primary, social, or promotions) based on their contents.
