@@ -18,7 +18,7 @@
 
 ## Common NLP Tasks :
 - ######      Text / Document Classification
-+ ###### Sentiment Analysis
++ ###### Sentiment Analysis               
 * ###### Information Retrieval
 - ######   Parts of Speech Tagging
 + ###### Language Detection And Machine Translation
