@@ -46,10 +46,29 @@
 ###### Machine Learning WorkFlow : Convert textual data to numbers and then give number to machine learning algorithm and the output of machine learning algorithm is been evaluated.
 
 ##### Algorithms Used :-
-+ Naive Bayes 
-- Logistic Regression
-* SVM (Support Vector Machine)
-+ LDA
-- Hidden Markov Models
-* ##### Deep Learning based Methods
++ ###### Naive Bayes 
+- ###### Logistic Regression
+* ###### SVM (Support Vector Machine)
++ ###### LDA
+- ###### Hidden Markov Models
+* ##### Deep Learning based Methods: Deep Learning advantage over Machine Learning
++ ###### In Machine Learning, we convert textual data to number and the sequential information of text has loose which means, they don't care about the sequential information of data. But Deep Learning based models they also care about the sequential information of text.
+- ###### Feature generation is automatically done by deep learning model whereas in Machine Learning we will have to made them by ourself based on our understanding.
+
+###### Architecutes Used :
++ ###### RNN
+- ###### LSTM
+* ###### GRU / CNN
++ ###### Transformers - 2015
+- ###### Autoencoders
+
+##### Challenges in Natural Language Processing :- 
++ ###### Ambiguity
+- ###### Contextual Words
+* ###### Colloquialisms and Slang
++ ###### Synonyms
+- ###### Irony, Sarcasm and Tonal Differnce
+* ###### Creativity
++ ###### Diversity
+* ###### Spelling Errors
 
