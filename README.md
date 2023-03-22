@@ -37,6 +37,19 @@
 ###### Examples : Regular Expressions, Wordnet, Open Mind Common Sense                                                                                                                                          
 ###### Advantage : These are quick approaches and accurate (chances of errors are less).                                                               
 ###### Current Scenario :  Yes, Heuristic Approaches are used in current time.
-+ ##### Machine Learning based Methods
++ ##### Machine Learning based Methods:
+###### Machine Learning and Natural Language Processing are important subfields of Artificial Intelligence that have gained great impact in recent times. In Machine Learning, as we work with different kind of data, we also work with textual data through Machine Learning Algorithms.
+###### Advantage : In Heuristic, we can make rules but there is some open ended problems where the human being doesn't have the ability to make rules. In that type of problem, Machine Learning approaches are used because algorithm internally made rules in Machine Learning Algorithms. 
+###### The relationship between data has been made based on input and output.
+###### Machine Learning is used to solve open ended problems. and it became go to approach to solve Natural Language Processing problem.
+###### Currently, Heuristic Approaches are also used but Machine Learning approaches are more powerful and used in wide variety.
+###### Machine Learning WorkFlow : Convert textual data to numbers and then give number to machine learning algorithm and the output of machine learning algorithm is been evaluated.
+
+##### Algorithms Used :-
++ Naive Bayes 
+- Logistic Regression
+* SVM (Support Vector Machine)
++ LDA
+- Hidden Markov Models
 * ##### Deep Learning based Methods
 
