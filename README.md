@@ -61,8 +61,7 @@
 * ###### GRU / CNN
 + ###### Transformers - 2015
 - ###### Autoencoders
-
-##### Challenges in Natural Language Processing :- 
+# **Challenges in Natural Language Processing :**
 + ###### Ambiguity
 - ###### Contextual Words
 * ###### Colloquialisms and Slang
