@@ -17,7 +17,7 @@
 + #### Language Translation :
 ###### One of the most common NLP examples is translation. In the 1950s, Georgetown and IBM presented the first NLP-based translation machine, which had the ability to translate 60 Russian sentences to English automatically. Translation applications available today use NLP and Machine Learning to accurately translate both text and voice formats for most global languages.
 
-## Common NLP Tasks :
+## Common NLP Tasks :               
 - ######      Text / Document Classification
 + ###### Sentiment Analysis               
 * ###### Information Retrieval
