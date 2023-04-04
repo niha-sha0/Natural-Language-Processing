@@ -29,7 +29,7 @@
 * ###### Topic Modelling
 - ###### Text Generation
 + ###### Spell Checking and Grammar Correction
-* ###### Text Parsing
+* ###### Text Parsing                           
 - ###### Speech to Text
 
 ## Approaches to NLP :
