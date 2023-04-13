@@ -8,7 +8,7 @@
 ## Real World Application of NLP :                                              
 - #### Contextual Advertisements :                                     
 ###### For example : Like I use instagram and I likes to search about technology and companies so, they show me the advertisement based on my interests by knowing it through my activities on instagram which is called as targeted advertisements.                                                            
-+ #### Email Clients :                                  
++ #### Email Clients :                                    
 ###### Email filters are one of the most basic and initial applications of NLP online. It started out with spam filters, uncovering certain words or phrases that signal a spam message. But filtering has upgraded, just like early adaptations of NLP. One of the more prevalent, newer applications of NLP is found in Gmail's email classification. The system recognizes if emails belong in one of three categories (primary, social, or promotions) based on their contents.
 * #### Social Media : 
 ###### Social media monitoring uses NLP to filter the overwhelming number of comments and queries that companies might receive under a given post, or even across all social channels. These monitoring tools leverage the previously discussed sentiment analysis and spot emotions like irritation, frustration, happiness, or satisfaction. The tools will notify you of any patterns and trends, for example, a glowing review, which would be a positive sentiment that can be used as a customer testimonial.
